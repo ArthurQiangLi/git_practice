@@ -17,3 +17,5 @@ print("manual set version = v1.2")
 print("test and did 3 bugfix in v1.2")
 
 print("test confirm v1.2 is ok")
+
+print("Alice workd on develop after v1.2")
