@@ -11,3 +11,5 @@ print("Alice worked on feature-comm part1/2")
 print("Alice worked on feature-comm part2/2")
 
 print("develop some small function with the feature-comm merge")
+
+print("manual set version = v1.2")
