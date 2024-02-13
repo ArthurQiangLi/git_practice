@@ -23,3 +23,4 @@ print("Alice workd on develop after v1.2")
 
 print("v1.2 has troubles due to whatever, but changes on 'develop' are yet unstable. we have this new hotfix branch to fix the problems")
 
+print("on feature2 from Develop, fists commit, ")
